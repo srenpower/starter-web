@@ -1,1 +1,3 @@
 blacksheep.txt
+*.log
+log/
